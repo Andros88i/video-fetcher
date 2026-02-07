@@ -1,0 +1,28 @@
+# Archivo de ejemplo para descargas masivas
+# Una URL por línea
+# Las líneas que comienzan con # son ignoradas
+
+# Facebook
+https://www.facebook.com/watch/?v=123456789
+https://fb.watch/abc123/
+
+# Instagram
+https://www.instagram.com/p/ABC123xyz/
+https://www.instagram.com/reel/XYZ789abc/
+
+# TikTok
+https://www.tiktok.com/@usuario/video/1234567890
+
+# YouTube
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/abc123xyz
+
+# Twitter/X
+https://twitter.com/usuario/status/1234567890
+https://x.com/usuario/status/0987654321
+
+# Notas:
+# - Copia la URL completa del navegador
+# - Elimina parámetros innecesarios si lo deseas
+# - Puedes mezclar URLs de diferentes plataformas
+# - El script detectará automáticamente la plataforma
